@@ -1,0 +1,2 @@
+{"func": "int x = 5 ; int y = 6 ; int z = x + y ; return z ;", "target": 1}
+{"func": "string y = 7 ; int y = 6 ; int z = x + y ; return z ;", "target": 0}
